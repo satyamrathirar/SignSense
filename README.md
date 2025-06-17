@@ -4,7 +4,7 @@ Through SignSense, we aim to make it possible for disabled people to be able to 
 ## Table of contents
 * [General info](#general-info)
 * [Technologies](#technologies)
-* [Usage](#how-to-use)
+* [Usage](#usage)
 * [Project Status]
 * [Contributors]
 ## General info
