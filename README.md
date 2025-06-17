@@ -32,9 +32,9 @@ We aim to improve our project by implementing the following features:
 1. Try to build an app interface to make this technology more accessible.
 2. Try to translate hand gestures in more than one language to help a wider diversity of people.
 3. Try to recognise gestures which are heavily motion-based and are complex to be distinguished.
-##Contributors
-Soham Kukreti
-Yuvraj Rathi
-Satyam Rathi
-Sanvi Sharma
+## Contributors
+- [Soham Kukreti](https://github.com/SohamKukreti)
+- [Yuvraj Rathi](https://github.com/yryuvraj)
+- [Satyam Rathi](https://github.com/satyamrathirar)
+- [Sanvi Sharma](https://github.com/ciaokitty)
 
