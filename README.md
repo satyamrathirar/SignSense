@@ -5,7 +5,8 @@ Through SignSense, we aim to make it possible for disabled people to be able to 
 * [General info](#general-info)
 * [Technologies](#technologies)
 * [Usage](#usage)
-* [Project Status]
+* [Project Status](#project-status)
+* [Room for Improvement](#room-for-improvement)
 * [Contributors]
 ## General info
 This project is a part of the BitBox Hackathon.
