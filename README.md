@@ -1,10 +1,10 @@
 # SignSense
 ## Empowering accessibility with SignSense
 Through SignSense, we aim to make it possible for disabled people to be able to communicate effectively by detecting and translating sign language based on the American Sign Language system.
-## **Table of contents
+## Table of contents
 * [General info](#general-info)
 * [Technologies](#technologies)
-* [Usage](#how to use)
+* [Usage](#how-to-use)
 * [Project Status]
 * [Contributors]
 ## General info
